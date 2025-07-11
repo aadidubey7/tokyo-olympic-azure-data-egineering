@@ -8,5 +8,4 @@ This is a simple ETL project I developed on the Azure platform to demonstrate ho
 - Github
 
 ## Architecture
-
-etl-tokyo-olympic-flow-chart.png
+  etl-tokyo-olympic-flow-chart.png
