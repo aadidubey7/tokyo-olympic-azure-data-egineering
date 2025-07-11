@@ -6,3 +6,5 @@ This is a simple ETL project I developed on the Azure platform to demonstrate ho
 - PySpark
 - Azure Data Factory, Data Bricks, App Registrations, Storage Account etc
 - Github
+
+## Architecture
